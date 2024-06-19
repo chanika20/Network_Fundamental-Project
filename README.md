@@ -1,18 +1,8 @@
 # Network_Fundamental-Project
 1st Year 1st Semester Group Project
 
-**XYZ University is a large university with 7 branches located throughout a country. The 
-university has over 50,000 students, faculty, and staff members who rely heavily on the 
-university's network for research, communication, and learning. The university's IT department 
-is responsible for designing and maintaining the network infrastructure for all the campuses.
-Requirements:
-• The network should be able to support the large number of users and devices on each 
-campus.
-• The network should provide reliable and high-speed connectivity for all the campuses.
-• The network should be secure and able to prevent unauthorized access and cyberattacks.
-• The network should be able to support the different applications and services used by 
-the university.
-• The network should be easy to manage and maintain.
+![image](https://github.com/chanika20/Network_Fundamental-Project/assets/76622577/9729fcfc-df88-4bff-be2f-6bb6fab05386)
+
 Design:
 The proposed network design for XYZ University includes the following components:
 • Core Network: The core network is the backbone of the network infrastructure, and it 
