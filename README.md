@@ -3,28 +3,10 @@
 
 ![image](https://github.com/chanika20/Network_Fundamental-Project/assets/76622577/9729fcfc-df88-4bff-be2f-6bb6fab05386)
 
-Design:
-The proposed network design for XYZ University includes the following components:
-• Core Network: The core network is the backbone of the network infrastructure, and it 
-provides the main connectivity between all the network devices. It will consist of high-performance switches and routers located on the main campus.
-• Distribution Network: The distribution network will provide connectivity to the 
-different campuses. It will consist of switches and routers that will be located at each 
-campus.
-• Access Network: The access network will provide connectivity to end-user devices. It 
-will consist of switches that will be located in each building on each campus.
-• Wireless Network: The network will also have a wireless network to provide 
-connectivity to mobile devices such as smartphones and tablets.
-• Security: The network will have multiple layers of security to prevent unauthorized 
-access and cyber-attacks. 
-• Management: The network will be managed using a centralized network management 
-system that will allow the IT department to monitor and control the network devices 
-from a single location.
-• Backup and Redundancy: The network will have backup and redundancy measures in 
-place to ensure that the network is always available and that data is not lost in the event 
-of a network failure. **
+**Design:**
+![image](https://github.com/chanika20/Network_Fundamental-Project/assets/76622577/c49aaff6-d9b1-4f3c-b0c9-3154dcde2c70)
 
-
-Tasks
+**Tasks**
 1. Design a logical topology diagram for the above scenario.
 2. Design a physical topology diagram for the above scenario.
 3. Suggest appropriate devices for the design (Must be real devices). Justify your 
