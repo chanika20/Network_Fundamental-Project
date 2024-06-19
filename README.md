@@ -1,5 +1,5 @@
 # Network_Fundamental-Project
-1st Year 1st Semester Group Project
+**1st Year 2nd Semester Group Project-CSNE**
 
 ![image](https://github.com/chanika20/Network_Fundamental-Project/assets/76622577/9729fcfc-df88-4bff-be2f-6bb6fab05386)
 
